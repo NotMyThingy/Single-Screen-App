@@ -1,10 +1,10 @@
 # Single-Screen-App
 An Android single screen app project to conclude the __Android Basics: User Interface__ from *UDACITY Android-Basics path.*
 
-## Project Overview ##
+## Project Overview
 Design and implement a single screen app that displays information about a fictional small business. 
 
-## Requirements ##
+## Requirements
 Design must include:
 
  * Business name
@@ -15,4 +15,4 @@ Design must include:
      * Description of business
      * Hours of operation
 
-## Final Result ##
+## Final Result
